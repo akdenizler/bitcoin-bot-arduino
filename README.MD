@@ -1,7 +1,3 @@
-Here’s the updated **README.md** without the Arduino sketch section, as the Arduino script is uploaded along with the Python script:
-
----
-
 ## **Bitcoin Price Monitor with Arduino**
 
 ### **Overview**
